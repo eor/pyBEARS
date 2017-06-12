@@ -1,4 +1,6 @@
 pyBEARS
 =======
 
-A python-based pipeline for BEARS
+A python-based pipeline for BEARS.
+
+Coming soonish.
